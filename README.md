@@ -13,7 +13,7 @@ Use it as is or as a starting point.
 ```html
 <div id="webring">
     <span>&#8636; <a href="#">previous site name</a></span>
-    <p>this site is a part of the &#9825; <a href="https://dwangschematiek.nl/webring/" target="_blank">dwangschematiek webring</a> &#9825;</p>
+    <p>this site is a part of the<br>&#9825; <a href="https://dwangschematiek.nl/webring/" target="_blank">dwangschematiek webring</a> &#9825;</p>
     <span><a href="#">next site name</a> &#8640;</span>
 </div>
 ```
@@ -23,7 +23,9 @@ Use it as is or as a starting point.
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: last baseline;
+
+    text-align: center;
 }
 ```
 
