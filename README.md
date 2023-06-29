@@ -7,7 +7,7 @@ Find it at [dwangschematiek.nl/webring/](https://dwangschematiek.nl/webring/).
 ## Navigation bar
 
 If you are part of the webring, you can design your own navigation.
-Here is the one I use.
+Here is the one [I use](https://dwangschematiek.nl/#webring).
 Use it as is or as a starting point.
 
 ```html
