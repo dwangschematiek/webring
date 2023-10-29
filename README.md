@@ -1,5 +1,7 @@
 # dwangschematiek webring
 
+**Note: this repo has been archived as of 2023-10-29. There's a [nice new place](https://git.sr.ht/~ma3ke/webring) for this site's sources. The new location of the webring is [webring.dwangschematiek.nl](https://webring.dwangschematiek.nl).**
+
 This repo contains the tiny source for this tiny little project :)
 
 Find it at [dwangschematiek.nl/webring/](https://dwangschematiek.nl/webring/).
